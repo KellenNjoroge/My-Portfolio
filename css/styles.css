@@ -5,14 +5,17 @@ h1{
   color: white;
 }
  h2{
-   color:#40E0D0
+   color:#40E0D0;
 
+ }
+ h3{
+   color:blue;
  }
 body {
   background-image: url("girl-coding.jpg");
-  background-repeat: no-repeat;
-  background-size:  100% 50%;
-  color: red;
+  background-repeat:no-repeat ;
+  background-size:  100% 40%;
+  color: white;
   background-color:  black;
 }
 
