@@ -5,9 +5,15 @@ h1{
   padding:20px;
   color: white;
 }
+ h2{
+   color:#40E0D0
+
+ }
 body {
-  background-color: blue;
-  image-resolution: 500px;
+  background-image: url("girl-coding.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% 50%;
+}
 
 
 
