@@ -8,6 +8,8 @@
 currently using HTML and CSS
 ## Support and contact details
 If you have any problems you can always slack me @ Keller
+### Link
+[Link](https://kellennjoroge.github.io/My-Portfolio/)
 ### License
 Licensed under the [MIT license](LICENSE).
 
