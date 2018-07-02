@@ -4,6 +4,11 @@ h1{
   font-style: italic;
   color: white;
 }
+body{
+    background-color:  black;
+    color:white
+
+}
  h2{
    color:#40E0D0;
 
@@ -11,13 +16,14 @@ h1{
  h3{
    color:blue;
  }
-body {
+ .introduction  {
+  font-family: sans-serif;
   background-image: url("girl-coding.jpg");
   background-repeat:no-repeat ;
-  background-size:  100% 60%;
-  color: white;
-  background-color:  black;
+  background-size:  100% 100%;
+
 }
+
 
 
 
