@@ -10,12 +10,12 @@ currently using HTML and CSS
 If you have any problems you can always slack me @ Keller
 ### Link
 [My Portfolio's link](https://kellennjoroge.github.io/My-Portfolio/)
-###prerequisites
+### prerequisites
 -web browser
 -git
-###installation
+### installation
 \\\ git clone https://github.com/KellenNjoroge/My-Portfolio \\\
-##bugs
+## bugs
 cannot operate on explorer
 ### License
 Licensed under the [MIT license](LICENSE).
