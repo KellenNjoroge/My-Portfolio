@@ -1,26 +1,26 @@
-h1{
-  background-color: black;
-  font-size:30px;
-  font-style: italic;
-  color: white;
-}
+
 body{
     background-color:  black;
-    color:white
-
+    color:white;
+    font-family: sans-serif;
+    background-image: url("../assets/girl-coding.jpg");
+    background-repeat:no-repeat;
+    background-size:  100% 100%;
 }
- h2{
+  
+  h1{
+      font-size:30px;
+      font-style: italic;
+      color: white;
+   }
+   h2{
    color:#40E0D0;
 
- }
+}
  h3{
    color:blue;
  }
  .introduction  {
-  font-family: sans-serif;
-  background-image: url("../assets/girl-coding.jpg");
-  background-repeat:no-repeat ;
-  background-size:  100% 100%;
-
+  
 }
 
