@@ -18,17 +18,9 @@ body{
  }
  .introduction  {
   font-family: sans-serif;
-  background-image: url("girl-coding.jpg");
+  background-image: url("../assets/girl-coding.jpg");
   background-repeat:no-repeat ;
   background-size:  100% 100%;
 
 }
 
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 4be7fbb11b0a60231a1461fcdc2976e7e869337c
-}
