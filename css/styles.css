@@ -1,13 +1,64 @@
 
-body{
-    background-color:  black;
+body,html{
+  height: 100%;
+}
+#index{
+    background-color:  white;
     color:white;
     font-family: sans-serif;
-    background-image: url("../assets/girl-coding.jpg");
+    background-image: url("../assets/tess.jpg") 
+  }
+  /*
     background-repeat:no-repeat;
-    background-size:  100% 100%;
+    background-size:cover;
+    background-position: center;    
+}*/
+img.bg{
+  height: 100%;
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
 }
-  
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+.introduction img { 
+    border-radius:50%;
+}
+}#home{
+background-color: paleturquoise;
+color:black;
+font-family: sans-serif;
+background-image: url("../assets/women-in-power.jpg") 
+}
+#abt{
+  background-color: paleturquoise;
+  color:black;
+  font-family: sans-serif;
+  background-image: url("../assets/fun.jpg") 
+  }
+#skills{
+    background-color: paleturquoise;
+    color:black;
+    font-family: sans-serif;
+    background-image: url("../assets/index.jpg") 
+  }
+#hobbies{
+    background-color: paleturquoise;
+    color:black;
+    font-family: sans-serif;
+    background-image: url("../assets/bare.jpg")
+  }
   h1{
       font-size:30px;
       font-style: italic;
@@ -20,7 +71,7 @@ body{
  h3{
    color:blue;
  }
- .introduction  {
+ 
   
 }
 
