@@ -1,63 +1,88 @@
-
-body,html{
-  height: 100%;
-}
+  html,body{
+    height:100%;
+    width:100%;
+    font-size: 30px;
+    text-align:center;
+  }
   .index{
-    background-color:  white;
+    background-color: paleturquoise;
     color:white;
     font-family: sans-serif;
-    background-image: url("../assets/tess.jpg") 
+    padding:200px;
+    background-image: url("../assets/main.jpg"); 
+    background-repeat: no-repeat center center fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
-   /* background-repeat:no-repeat;
-    background-size:cover;
-    background-position: center;    
-  }
-  img.bg{
+  img.index{
   height: 100%;
   min-height: 100%;
   min-width: 1024px;
   }
-  
-  width: 100%;
-  height: auto;
-	
-
-  position: fixed;
-  top: 0;
-  left: 0;
-
- }*/
-  @media screen and (max-width: 1024p);
-  img.bg {
+  /*
+  @media screen and (max-width: 1024px)
+  img.index {
     left: 50%;
     margin-left: -512px;  
-   }
+   */
   .introduction img { 
     border-radius:50%;
+    float: center;
   }
   .home{
    background-color: paleturquoise;
    color:black;
    font-family: sans-serif;
+   padding: 200px;
    background-image: url("../assets/women-in-power.jpg"); 
-    }
+   background-repeat: no-repeat center center fixed;
+   background-position: center center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
   .abt{
    background-color: paleturquoise;
    color:black;
    font-family: sans-serif;
-   background-image: url("../assets/fun.jpg");
-  }
+   padding: 200px;
+   background-image: url("../assets/fun.jpg"); 
+   background-repeat: no-repeat center center fixed;
+   background-position: center center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
   .skills{
     background-color: paleturquoise;
-    color:black;
+    color: white;
     font-family: sans-serif;
-    background-image: url("../assets/index.jpg"); 
+    padding: 200px;
+    background-image: url("../assets/fluffy.jpg"); 
+    background-repeat: no-repeat center center fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   .hobbies{
     background-color: paleturquoise;
     color:black;
     font-family: sans-serif;
-    background-image: url("../assets/bare.jpg");
+    padding: 200px;
+    background-image: url("../assets/hearts.jpg");
+    background-repeat: no-repeat center center fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   h1{
       font-size:30px;
