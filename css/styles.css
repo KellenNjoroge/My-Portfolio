@@ -2,76 +2,73 @@
 body,html{
   height: 100%;
 }
-#index{
+  .index{
     background-color:  white;
     color:white;
     font-family: sans-serif;
     background-image: url("../assets/tess.jpg") 
   }
-  /*
-    background-repeat:no-repeat;
+   /* background-repeat:no-repeat;
     background-size:cover;
     background-position: center;    
-}*/
-img.bg{
+  }
+  img.bg{
   height: 100%;
   min-height: 100%;
   min-width: 1024px;
-	
-  /* Set up proportionate scaling */
+  }
+  
   width: 100%;
   height: auto;
 	
-  /* Set up positioning */
+
   position: fixed;
   top: 0;
   left: 0;
-}
-@media screen and (max-width: 1024px) { /* Specific to this particular image */
+
+ }*/
+  @media screen and (max-width: 1024p);
   img.bg {
     left: 50%;
-    margin-left: -512px;   /* 50% */
-  }
-.introduction img { 
+    margin-left: -512px;  
+   }
+  .introduction img { 
     border-radius:50%;
-}
-}#home{
-background-color: paleturquoise;
-color:black;
-font-family: sans-serif;
-background-image: url("../assets/women-in-power.jpg") 
-}
-#abt{
-  background-color: paleturquoise;
-  color:black;
-  font-family: sans-serif;
-  background-image: url("../assets/fun.jpg") 
   }
-#skills{
+  .home{
+   background-color: paleturquoise;
+   color:black;
+   font-family: sans-serif;
+   background-image: url("../assets/women-in-power.jpg"); 
+    }
+  .abt{
+   background-color: paleturquoise;
+   color:black;
+   font-family: sans-serif;
+   background-image: url("../assets/fun.jpg");
+  }
+  .skills{
     background-color: paleturquoise;
     color:black;
     font-family: sans-serif;
-    background-image: url("../assets/index.jpg") 
+    background-image: url("../assets/index.jpg"); 
   }
-#hobbies{
+  .hobbies{
     background-color: paleturquoise;
     color:black;
     font-family: sans-serif;
-    background-image: url("../assets/bare.jpg")
+    background-image: url("../assets/bare.jpg");
   }
   h1{
       font-size:30px;
       font-style: italic;
       color: white;
    }
-   h2{
+  h2{
    color:#40E0D0;
 
-}
- h3{
+  }
+  h3{
    color:blue;
- }
- 
-  
-}
+  }
 
