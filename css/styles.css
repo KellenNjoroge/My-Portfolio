@@ -37,20 +37,7 @@
    color:black;
    font-family: sans-serif;
    padding: 200px;
-   background-image: url("../assets/women-in-power.jpg"); 
-   background-repeat: no-repeat center center fixed;
-   background-position: center center;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-size: cover;
- }
-  .abt{
-   background-color: paleturquoise;
-   color:black;
-   font-family: sans-serif;
-   padding: 200px;
-   background-image: url("../assets/fun.jpg"); 
+   background-image: url("../assets/main.jpg"); 
    background-repeat: no-repeat center center fixed;
    background-position: center center;
    -webkit-background-size: cover;
@@ -63,7 +50,7 @@
     color: white;
     font-family: sans-serif;
     padding: 200px;
-    background-image: url("../assets/fluffy.jpg"); 
+    background-image: url("../assets/main.jpg"); 
     background-repeat: no-repeat center center fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -76,7 +63,7 @@
     color:black;
     font-family: sans-serif;
     padding: 200px;
-    background-image: url("../assets/hearts.jpg");
+    background-image: url("../assets/main.jpg");
     background-repeat: no-repeat center center fixed;
     background-position: center center;
     -webkit-background-size: cover;
